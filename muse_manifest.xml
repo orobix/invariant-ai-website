@@ -1,0 +1,37 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="invariant.com" resolutions="1x" timestamp="1547133105667">
+  <folder name="fonts">
+    <file name="comfortaa-v12-latin-regular.woff" crc="261823544"/>
+    <file name="comfortaa-v12-latin-regular.eot" crc="4261212325"/>
+    <file name="comfortaa-v12-latin-regular.svg" crc="265049803"/>
+  </folder>
+  <folder name="assets">
+    <file name="comfortaa-bold.ttf" crc="3758528525" seo="true" mt="1312927200000"/>
+    <file name="comfortaa-regular.ttf" crc="275085850" seo="true" mt="1312927200000"/>
+    <file name="comfortaa-light.ttf" crc="116317213" seo="true" mt="1312927200000"/>
+    <file name="ofl.txt" crc="43113931" seo="true" mt="1312927200000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="31165584"/>
+    <file name="index.css" crc="4118000373" ref="index"/>
+    <file name="nomq_index.css" crc="100871803" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="sfondo-prova.svg" crc="4110550867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sfondo prova_poster_.png" crc="92354403" ref="index"/>
+  </folder>
+  <file name="index.html" crc="238282653" seo="true" mt="1547132948913" redirect="true"/>
+</manifest>
